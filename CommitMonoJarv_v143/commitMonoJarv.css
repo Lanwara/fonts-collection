@@ -5,26 +5,26 @@
 	font-family: "CommitMonoJarv";
 	font-style: normal;
 	font-weight: 400;
-	src: url();
+	src: url("https://github.com/Lanwara/fonts-collection/raw/master/CommitMonoJarv_v143/CommitMonoJarv-400-Regular.otf");
 }
 /* Italic */
 @font-face {
 	font-family: "CommitMonoJarv";
 	font-style: italic;
 	font-weight: 400;
-	src: url();
+	src: url("https://github.com/Lanwara/fonts-collection/raw/master/CommitMonoJarv_v143/CommitMonoJarv-400-Italic.otf");
 }
 /* Bold */
 @font-face {
 	font-family: "CommitMonoJarv";
 	font-style: normal;
 	font-weight: 700;
-	src: url();
+	src: url("https://github.com/Lanwara/fonts-collection/raw/master/CommitMonoJarv_v143/CommitMonoJarv-700-Regular.otf");
 }
 /* Bold + Italic */
 @font-face {
 	font-family: "CommitMonoJarv";
 	font-style: italic;
 	font-weight: 700;
-	src: url();
+	src: url("https://github.com/Lanwara/fonts-collection/raw/master/CommitMonoJarv_v143/CommitMonoJarv-700-Italic.otf");
 }
