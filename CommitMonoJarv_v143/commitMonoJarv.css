@@ -1,0 +1,30 @@
+/* CommitMonoJarv */
+
+/* Normal */
+@font-face {
+	font-family: "CommitMonoJarv";
+	font-style: normal;
+	font-weight: 400;
+	src: url();
+}
+/* Italic */
+@font-face {
+	font-family: "CommitMonoJarv";
+	font-style: italic;
+	font-weight: 400;
+	src: url();
+}
+/* Bold */
+@font-face {
+	font-family: "CommitMonoJarv";
+	font-style: normal;
+	font-weight: 700;
+	src: url();
+}
+/* Bold + Italic */
+@font-face {
+	font-family: "CommitMonoJarv";
+	font-style: italic;
+	font-weight: 700;
+	src: url();
+}
